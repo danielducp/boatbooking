@@ -1,0 +1,551 @@
+[08-Feb-2021 05:53:41 America/New_York] PHP Notice:  Undefined index: user_logged_in in /home/danielst/public_html/boats/newbooking.php on line 38
+[08-Feb-2021 05:53:41 America/New_York] PHP Notice:  Undefined index: email in /home/danielst/public_html/boats/newbooking.php on line 50
+[08-Feb-2021 05:53:41 America/New_York] PHP Notice:  Undefined variable: UserID in /home/danielst/public_html/boats/newbooking.php on line 92
+[08-Feb-2021 05:53:41 America/New_York] PHP Notice:  Undefined variable: UserID in /home/danielst/public_html/boats/newbooking.php on line 92
+[08-Feb-2021 05:53:41 America/New_York] PHP Notice:  Undefined variable: UserID in /home/danielst/public_html/boats/newbooking.php on line 92
+[08-Feb-2021 07:17:10 America/New_York] PHP Notice:  Undefined index: user_logged_in in /home/danielst/public_html/boats/completebooking.php on line 35
+[08-Feb-2021 07:17:10 America/New_York] PHP Notice:  Undefined index: RecurringName in /home/danielst/public_html/boats/completebooking.php on line 71
+[08-Feb-2021 07:17:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/danielst/public_html/boats/completebooking.php:293
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/completebooking.php on line 293
+[08-Feb-2021 07:17:39 America/New_York] PHP Notice:  Undefined variable: Text in /home/danielst/public_html/boats/newbookinginformation.php on line 27
+[08-Feb-2021 07:17:43 America/New_York] PHP Notice:  Undefined index: RecurringName in /home/danielst/public_html/boats/completebooking.php on line 71
+[08-Feb-2021 07:17:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function diff() on string in /home/danielst/public_html/boats/completebooking.php:293
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/completebooking.php on line 293
+[08-Feb-2021 07:26:50 America/New_York] PHP Notice:  Undefined index: RecurringName in /home/danielst/public_html/boats/completebooking.php on line 71
+[08-Feb-2021 07:26:50 America/New_York] PHP Notice:  Object of class DateTime could not be converted to float in /home/danielst/public_html/boats/completebooking.php on line 344
+[08-Feb-2021 07:26:50 America/New_York] PHP Notice:  Object of class DateTime could not be converted to float in /home/danielst/public_html/boats/completebooking.php on line 384
+[08-Feb-2021 07:26:50 America/New_York] PHP Notice:  Object of class DateTime could not be converted to float in /home/danielst/public_html/boats/completebooking.php on line 424
+[08-Feb-2021 07:38:52 America/New_York] PHP Notice:  Undefined index: user_logged_in in /home/danielst/public_html/boats/completebooking.php on line 35
+[08-Feb-2021 07:38:52 America/New_York] PHP Notice:  Undefined index: RecurringName in /home/danielst/public_html/boats/completebooking.php on line 71
+[08-Feb-2021 07:38:52 America/New_York] PHP Notice:  Object of class DateTime could not be converted to float in /home/danielst/public_html/boats/completebooking.php on line 344
+[08-Feb-2021 07:38:52 America/New_York] PHP Notice:  Object of class DateTime could not be converted to float in /home/danielst/public_html/boats/completebooking.php on line 384
+[08-Feb-2021 07:38:52 America/New_York] PHP Notice:  Object of class DateTime could not be converted to float in /home/danielst/public_html/boats/completebooking.php on line 424
+[09-Feb-2021 05:35:06 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newboatbooking.php on line 65
+[09-Feb-2021 05:35:06 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newboatbooking.php on line 66
+[09-Feb-2021 05:35:06 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[09-Feb-2021 05:35:06 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[09-Feb-2021 05:35:19 America/New_York] PHP Parse error:  syntax error, unexpected '$UserID' (T_VARIABLE), expecting ',' or ')' in /home/danielst/public_html/boats/completebooking.php on line 345
+[09-Feb-2021 05:36:06 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/completebooking.php on line 56
+[09-Feb-2021 05:36:06 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/completebooking.php on line 57
+[09-Feb-2021 05:36:06 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/completebooking.php on line 58
+[09-Feb-2021 05:36:06 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/completebooking.php on line 59
+[09-Feb-2021 05:36:06 America/New_York] PHP Notice:  Undefined index: amountofboats in /home/danielst/public_html/boats/completebooking.php on line 60
+[09-Feb-2021 05:36:06 America/New_York] PHP Notice:  Undefined index: boatextrarequirements in /home/danielst/public_html/boats/completebooking.php on line 63
+[09-Feb-2021 05:36:06 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/completebooking.php on line 119
+[09-Feb-2021 05:36:06 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/completebooking.php on line 174
+[09-Feb-2021 05:36:06 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/completebooking.php on line 175
+[09-Feb-2021 05:36:06 America/New_York] PHP Notice:  Undefined variable: Duration in /home/danielst/public_html/boats/completebooking.php on line 198
+[09-Feb-2021 05:36:06 America/New_York] PHP Notice:  Undefined variable: Duration in /home/danielst/public_html/boats/completebooking.php on line 312
+[09-Feb-2021 05:36:06 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`danielst_sailability`.`BookedBoats`, CONSTRAINT `boatidforeignkey2` FOREIGN KEY (`BoatID`) REFERENCES `Boat` (`BoatID`) ON DELETE NO ACTION ON UPDATE NO ACTION) in /home/danielst/public_html/boats/completebooking.php:318
+Stack trace:
+#0 /home/danielst/public_html/boats/completebooking.php(318): PDOStatement->execute()
+#1 {main}
+  thrown in /home/danielst/public_html/boats/completebooking.php on line 318
+[09-Feb-2021 05:36:16 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$UserID' in 'where clause' in /home/danielst/public_html/boats/completebooking.php:345
+Stack trace:
+#0 /home/danielst/public_html/boats/completebooking.php(345): PDO->query('SELECT * FROM U...')
+#1 {main}
+  thrown in /home/danielst/public_html/boats/completebooking.php on line 345
+[09-Feb-2021 05:41:12 America/New_York] PHP Notice:  Undefined index: email in /home/danielst/public_html/boats/completebooking.php on line 347
+[09-Feb-2021 06:19:48 America/New_York] PHP Notice:  Undefined index: $ChosenBoatID in /home/danielst/public_html/boats/completebooking.php on line 351
+[09-Feb-2021 06:20:37 America/New_York] PHP Notice:  Undefined index: $ChosenBoatID in /home/danielst/public_html/boats/completebooking.php on line 344
+[09-Feb-2021 06:23:22 America/New_York] PHP Notice:  Undefined index: $ChosenBoatID in /home/danielst/public_html/boats/completebooking.php on line 345
+[09-Feb-2021 06:23:22 America/New_York] PHP Notice:  Undefined variable: ChosenBoatID in /home/danielst/public_html/boats/completebooking.php on line 354
+[09-Feb-2021 06:42:03 America/New_York] PHP Notice:  Undefined variable: mostrecentbookedboatid in /home/danielst/public_html/boats/completebooking.php on line 115
+[12-Feb-2021 09:59:24 America/New_York] PHP Notice:  Undefined variable: Text in /home/danielst/public_html/boats/newbookinginformation.php on line 39
+[12-Feb-2021 10:05:21 America/New_York] PHP Notice:  Undefined variable: Text in /home/danielst/public_html/boats/newbookinginformation.php on line 39
+[13-Feb-2021 12:26:56 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newboatbooking.php on line 65
+[13-Feb-2021 12:26:56 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newboatbooking.php on line 66
+[13-Feb-2021 12:26:56 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[13-Feb-2021 12:26:56 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[13-Feb-2021 14:57:44 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newboatbooking.php on line 65
+[13-Feb-2021 14:57:44 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newboatbooking.php on line 66
+[13-Feb-2021 14:57:44 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[13-Feb-2021 14:57:44 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[15-Feb-2021 05:46:14 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newboatbooking.php on line 65
+[15-Feb-2021 05:46:14 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newboatbooking.php on line 66
+[15-Feb-2021 05:46:14 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[15-Feb-2021 05:46:14 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[19-Feb-2021 10:54:24 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newboatbooking.php on line 65
+[19-Feb-2021 10:54:24 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newboatbooking.php on line 66
+[19-Feb-2021 10:54:24 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[19-Feb-2021 10:54:24 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[25-Feb-2021 11:58:12 America/New_York] PHP Notice:  Undefined variable: newDate in /home/danielst/public_html/boats/completebooking.php on line 357
+[26-Feb-2021 09:21:08 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:21:08 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:21:08 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:21:08 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:21:08 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:21:08 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:21:08 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:21:08 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:21:08 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:21:57 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:21:57 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:21:57 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:21:57 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:21:57 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:21:57 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:21:57 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:21:57 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:21:57 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:23:19 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:23:19 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:23:19 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:23:19 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:23:19 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:23:19 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:23:19 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:23:19 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:23:19 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:25:42 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:25:42 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:25:42 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:25:42 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:25:42 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:25:42 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:25:42 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:25:42 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:25:42 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:26:29 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 220
+[26-Feb-2021 09:26:29 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 221
+[26-Feb-2021 09:26:29 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 222
+[26-Feb-2021 09:26:29 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 223
+[26-Feb-2021 09:26:29 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 228
+[26-Feb-2021 09:26:29 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 230
+[26-Feb-2021 09:26:29 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 272
+[26-Feb-2021 09:26:29 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 323
+[26-Feb-2021 09:26:29 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 325
+[26-Feb-2021 09:26:33 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 220
+[26-Feb-2021 09:26:33 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 221
+[26-Feb-2021 09:26:33 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 222
+[26-Feb-2021 09:26:33 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 223
+[26-Feb-2021 09:26:33 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 228
+[26-Feb-2021 09:26:33 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 230
+[26-Feb-2021 09:26:33 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 272
+[26-Feb-2021 09:26:33 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 323
+[26-Feb-2021 09:26:33 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 325
+[26-Feb-2021 09:28:58 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 220
+[26-Feb-2021 09:28:58 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 221
+[26-Feb-2021 09:28:58 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 222
+[26-Feb-2021 09:28:58 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 223
+[26-Feb-2021 09:28:58 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 228
+[26-Feb-2021 09:28:58 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 230
+[26-Feb-2021 09:28:58 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 272
+[26-Feb-2021 09:28:58 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 323
+[26-Feb-2021 09:28:58 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 325
+[26-Feb-2021 09:29:01 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 220
+[26-Feb-2021 09:29:01 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 221
+[26-Feb-2021 09:29:01 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 222
+[26-Feb-2021 09:29:01 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 223
+[26-Feb-2021 09:29:01 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 228
+[26-Feb-2021 09:29:01 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 230
+[26-Feb-2021 09:29:01 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 272
+[26-Feb-2021 09:29:01 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 323
+[26-Feb-2021 09:29:01 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 325
+[26-Feb-2021 09:29:52 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:29:52 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:29:52 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:29:52 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:29:52 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:29:52 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:29:52 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:29:52 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:29:52 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:30:08 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:30:08 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:30:08 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:30:08 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:30:08 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:30:08 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:30:08 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:30:08 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:30:08 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:31:37 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:31:37 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:31:37 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:31:37 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:31:37 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:31:37 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:31:37 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:31:37 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:31:37 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:31:56 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:31:56 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:31:56 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:31:56 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:31:56 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:31:56 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:31:56 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:31:56 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:31:56 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:32:07 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:32:07 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:32:07 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:32:07 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:32:07 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:32:07 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:32:07 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:32:07 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:32:07 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:32:55 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:32:55 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:32:55 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:32:55 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:32:55 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:32:55 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:32:55 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:32:55 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:32:55 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:33:13 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:33:13 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:33:13 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:33:13 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:33:13 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:33:13 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:33:13 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:33:13 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:33:13 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:33:31 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:33:31 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:33:31 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:33:31 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:33:31 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:33:31 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:33:31 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:33:31 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:33:31 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:34:58 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:34:58 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:34:58 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:34:58 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:34:58 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:34:58 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:34:58 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:34:58 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:34:58 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:35:01 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:35:01 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:35:01 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:35:01 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:35:01 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:35:01 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:35:01 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:35:01 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:35:01 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:36:29 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:36:29 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:36:29 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:36:29 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:36:29 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:36:29 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:36:29 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:36:29 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:36:29 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:36:35 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:36:35 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:36:35 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:36:35 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:36:35 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:36:35 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:36:35 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:36:35 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:36:35 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:36:54 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:36:54 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:36:54 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:36:54 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:36:54 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:36:54 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:36:54 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:36:54 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:36:54 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:37:14 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:37:14 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:37:14 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:37:14 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:37:14 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:37:14 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:37:14 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:37:14 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:37:14 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 09:37:17 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 09:37:17 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 09:37:17 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 09:37:17 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 09:37:17 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 09:37:17 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 09:37:17 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 09:37:17 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 09:37:17 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 10:12:44 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 10:12:44 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 10:12:44 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 10:12:44 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 10:12:44 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 10:12:44 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 10:12:44 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 10:12:44 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 10:12:44 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 10:19:12 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 10:19:12 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 10:19:12 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 10:19:12 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 10:19:12 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 10:19:12 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 10:19:12 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 10:19:12 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 10:19:12 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 10:22:46 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 10:22:46 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 10:22:46 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 10:22:46 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 10:22:46 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 10:22:46 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 10:22:46 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 10:22:46 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 10:22:46 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 10:24:53 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 10:24:53 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 10:24:53 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 10:24:53 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 10:24:53 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 10:24:53 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 10:24:53 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 10:24:53 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 10:24:53 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 10:34:50 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 10:34:50 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 10:34:50 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 10:34:50 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 10:34:50 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 10:34:50 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 10:34:50 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 10:34:50 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 10:34:50 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 10:48:38 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 141
+[26-Feb-2021 10:48:38 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 142
+[26-Feb-2021 10:48:38 America/New_York] PHP Notice:  Undefined index: ChosenTime in /home/danielst/public_html/boats/newbookinginformation.php on line 143
+[26-Feb-2021 10:48:38 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 144
+[26-Feb-2021 10:48:38 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 149
+[26-Feb-2021 10:48:38 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newbookinginformation.php on line 151
+[26-Feb-2021 10:48:38 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newbookinginformation.php on line 193
+[26-Feb-2021 10:48:38 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newbookinginformation.php on line 244
+[26-Feb-2021 10:48:38 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newbookinginformation.php on line 246
+[26-Feb-2021 10:52:58 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newdayselected.php on line 85
+[26-Feb-2021 10:52:58 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newdayselected.php on line 92
+[26-Feb-2021 10:57:48 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newdayselected.php on line 82
+[26-Feb-2021 10:57:48 America/New_York] PHP Notice:  Undefined index: ChosenDay in /home/danielst/public_html/boats/newdayselected.php on line 88
+[26-Feb-2021 10:57:48 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newdayselected.php on line 89
+[26-Feb-2021 11:07:10 America/New_York] PHP Notice:  Undefined index: ChosenDay in /home/danielst/public_html/boats/newdateselected.php on line 83
+[26-Feb-2021 11:07:10 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newdateselected.php on line 84
+[26-Feb-2021 11:07:10 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newdateselected.php on line 85
+[26-Feb-2021 11:07:10 America/New_York] PHP Notice:  Undefined index: ChosenDay in /home/danielst/public_html/boats/newdateselected.php on line 89
+[26-Feb-2021 11:07:10 America/New_York] PHP Notice:  Undefined index: ChosenDate in /home/danielst/public_html/boats/newdateselected.php on line 92
+[26-Feb-2021 11:07:10 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newdateselected.php on line 93
+[26-Feb-2021 11:07:10 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newdateselected.php on line 94
+[26-Feb-2021 11:07:10 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newdateselected.php on line 99
+[26-Feb-2021 11:07:10 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newdateselected.php on line 117
+[26-Feb-2021 11:07:10 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newdateselected.php on line 120
+[26-Feb-2021 11:07:10 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newdateselected.php on line 123
+[03-Mar-2021 05:52:09 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newboatbooking.php on line 65
+[03-Mar-2021 05:52:09 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newboatbooking.php on line 66
+[03-Mar-2021 05:52:09 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[03-Mar-2021 05:52:09 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[03-Mar-2021 06:04:03 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newboatbooking.php on line 65
+[03-Mar-2021 06:04:03 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newboatbooking.php on line 66
+[03-Mar-2021 06:04:03 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[03-Mar-2021 06:04:03 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[03-Mar-2021 06:30:35 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newboatbooking.php on line 65
+[03-Mar-2021 06:30:35 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newboatbooking.php on line 66
+[03-Mar-2021 06:30:35 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[03-Mar-2021 06:30:35 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[03-Mar-2021 06:30:47 America/New_York] PHP Notice:  Undefined variable: boatname in /home/danielst/public_html/boats/newdateselected.php on line 117
+[03-Mar-2021 11:24:47 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newboatbooking.php on line 65
+[03-Mar-2021 11:24:47 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newboatbooking.php on line 66
+[03-Mar-2021 11:24:47 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[03-Mar-2021 11:24:47 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[04-Mar-2021 11:05:26 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 48
+[04-Mar-2021 11:05:26 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 49
+[04-Mar-2021 11:05:26 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 56
+[04-Mar-2021 11:07:35 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 48
+[04-Mar-2021 11:07:35 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 49
+[04-Mar-2021 11:07:35 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 56
+[04-Mar-2021 11:08:57 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 48
+[04-Mar-2021 11:08:57 America/New_York] PHP Notice:  Undefined index: email in /home/danielst/public_html/boats/viewallofmybookings.php on line 49
+[04-Mar-2021 11:08:57 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 56
+[04-Mar-2021 11:09:36 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 48
+[04-Mar-2021 11:09:36 America/New_York] PHP Notice:  Undefined index: email in /home/danielst/public_html/boats/viewallofmybookings.php on line 49
+[04-Mar-2021 11:09:36 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 56
+[04-Mar-2021 11:09:54 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 48
+[04-Mar-2021 11:09:54 America/New_York] PHP Notice:  Undefined variable: email in /home/danielst/public_html/boats/viewallofmybookings.php on line 49
+[04-Mar-2021 11:09:54 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 56
+[04-Mar-2021 11:09:55 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 48
+[04-Mar-2021 11:09:55 America/New_York] PHP Notice:  Undefined variable: email in /home/danielst/public_html/boats/viewallofmybookings.php on line 49
+[04-Mar-2021 11:09:55 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 56
+[04-Mar-2021 11:10:31 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 48
+[04-Mar-2021 11:10:31 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/danielst/public_html/boats/viewallofmybookings.php on line 49
+[04-Mar-2021 11:10:31 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 55
+[04-Mar-2021 11:10:31 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 48
+[04-Mar-2021 11:10:31 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/danielst/public_html/boats/viewallofmybookings.php on line 49
+[04-Mar-2021 11:10:31 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 55
+[04-Mar-2021 11:10:32 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 48
+[04-Mar-2021 11:10:32 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/danielst/public_html/boats/viewallofmybookings.php on line 49
+[04-Mar-2021 11:10:32 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 55
+[04-Mar-2021 11:10:56 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 48
+[04-Mar-2021 11:10:56 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/danielst/public_html/boats/viewallofmybookings.php on line 49
+[04-Mar-2021 11:10:57 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 48
+[04-Mar-2021 11:10:57 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/danielst/public_html/boats/viewallofmybookings.php on line 49
+[04-Mar-2021 11:11:01 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 48
+[04-Mar-2021 11:11:01 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/danielst/public_html/boats/viewallofmybookings.php on line 49
+[04-Mar-2021 12:00:34 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 61
+[04-Mar-2021 12:00:54 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 61
+[04-Mar-2021 12:00:54 America/New_York] PHP Notice:  Undefined variable: recently_added_products in /home/danielst/public_html/boats/viewallofmybookings.php on line 100
+[04-Mar-2021 12:00:54 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/danielst/public_html/boats/viewallofmybookings.php on line 100
+[04-Mar-2021 12:03:30 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 61
+[04-Mar-2021 12:03:30 America/New_York] PHP Notice:  Undefined index: $UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 67
+[04-Mar-2021 12:03:32 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 61
+[04-Mar-2021 12:03:32 America/New_York] PHP Notice:  Undefined index: $UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 67
+[04-Mar-2021 12:03:33 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 61
+[04-Mar-2021 12:03:33 America/New_York] PHP Notice:  Undefined index: $UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 67
+[04-Mar-2021 12:03:34 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 61
+[04-Mar-2021 12:03:34 America/New_York] PHP Notice:  Undefined index: $UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 67
+[04-Mar-2021 12:03:35 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 61
+[04-Mar-2021 12:03:35 America/New_York] PHP Notice:  Undefined index: $UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 67
+[04-Mar-2021 12:04:04 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 61
+[04-Mar-2021 12:04:04 America/New_York] PHP Notice:  Undefined index: $UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 67
+[04-Mar-2021 12:04:05 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 61
+[04-Mar-2021 12:04:05 America/New_York] PHP Notice:  Undefined index: $UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 67
+[04-Mar-2021 12:04:05 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/viewallofmybookings.php on line 61
+[04-Mar-2021 12:04:05 America/New_York] PHP Notice:  Undefined index: $UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 67
+[04-Mar-2021 12:04:27 America/New_York] PHP Notice:  Undefined index: $UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 66
+[04-Mar-2021 12:04:28 America/New_York] PHP Notice:  Undefined index: $UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 66
+[04-Mar-2021 12:06:30 America/New_York] PHP Notice:  Undefined index: $UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 66
+[04-Mar-2021 12:06:52 America/New_York] PHP Notice:  Undefined index: $UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 67
+[04-Mar-2021 12:07:19 America/New_York] PHP Notice:  Undefined index: $UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 67
+[04-Mar-2021 12:09:16 America/New_York] PHP Notice:  Undefined variable: UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 72
+[04-Mar-2021 12:09:17 America/New_York] PHP Notice:  Undefined variable: UserID in /home/danielst/public_html/boats/viewallofmybookings.php on line 72
+[04-Mar-2021 12:09:30 America/New_York] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/danielst/public_html/boats/viewallofmybookings.php on line 72
+[04-Mar-2021 12:09:31 America/New_York] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/danielst/public_html/boats/viewallofmybookings.php on line 72
+[04-Mar-2021 12:09:32 America/New_York] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/danielst/public_html/boats/viewallofmybookings.php on line 72
+[04-Mar-2021 12:10:06 America/New_York] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/danielst/public_html/boats/viewallofmybookings.php on line 72
+[04-Mar-2021 12:10:28 America/New_York] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/danielst/public_html/boats/viewallofmybookings.php on line 72
+[04-Mar-2021 12:11:58 America/New_York] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/danielst/public_html/boats/viewallofmybookings.php on line 238
+[04-Mar-2021 12:12:12 America/New_York] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/danielst/public_html/boats/viewallofmybookings.php on line 237
+[04-Mar-2021 12:12:32 America/New_York] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/danielst/public_html/boats/viewallofmybookings.php on line 76
+[04-Mar-2021 12:13:07 America/New_York] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/danielst/public_html/boats/viewallofmybookings.php on line 76
+[04-Mar-2021 12:13:08 America/New_York] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/danielst/public_html/boats/viewallofmybookings.php on line 76
+[04-Mar-2021 12:15:04 America/New_York] PHP Notice:  Undefined index: BookingNumber in /home/danielst/public_html/boats/viewallofmybookings.php on line 76
+[04-Mar-2021 12:15:05 America/New_York] PHP Notice:  Undefined index: BookingNumber in /home/danielst/public_html/boats/viewallofmybookings.php on line 76
+[04-Mar-2021 12:15:05 America/New_York] PHP Notice:  Undefined index: BookingNumber in /home/danielst/public_html/boats/viewallofmybookings.php on line 76
+[04-Mar-2021 12:15:06 America/New_York] PHP Notice:  Undefined index: BookingNumber in /home/danielst/public_html/boats/viewallofmybookings.php on line 76
+[04-Mar-2021 12:15:33 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC' at line 1 in /home/danielst/public_html/boats/viewallofmybookings.php:74
+Stack trace:
+#0 /home/danielst/public_html/boats/viewallofmybookings.php(74): PDO->prepare('SELECT * FROM B...')
+#1 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 74
+[04-Mar-2021 12:17:16 America/New_York] PHP Notice:  Undefined variable: dbh in /home/danielst/public_html/boats/viewallofmybookings.php on line 73
+[04-Mar-2021 12:17:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/danielst/public_html/boats/viewallofmybookings.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 73
+[04-Mar-2021 12:17:52 America/New_York] PHP Notice:  Undefined variable: dbh in /home/danielst/public_html/boats/viewallofmybookings.php on line 73
+[04-Mar-2021 12:17:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/danielst/public_html/boats/viewallofmybookings.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 73
+[04-Mar-2021 12:17:52 America/New_York] PHP Notice:  Undefined variable: dbh in /home/danielst/public_html/boats/viewallofmybookings.php on line 73
+[04-Mar-2021 12:17:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/danielst/public_html/boats/viewallofmybookings.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 73
+[04-Mar-2021 12:17:52 America/New_York] PHP Notice:  Undefined variable: dbh in /home/danielst/public_html/boats/viewallofmybookings.php on line 73
+[04-Mar-2021 12:17:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/danielst/public_html/boats/viewallofmybookings.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 73
+[04-Mar-2021 12:17:57 America/New_York] PHP Notice:  Undefined variable: dbh in /home/danielst/public_html/boats/viewallofmybookings.php on line 73
+[04-Mar-2021 12:17:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/danielst/public_html/boats/viewallofmybookings.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 73
+[04-Mar-2021 12:18:12 America/New_York] PHP Notice:  Undefined variable: sth in /home/danielst/public_html/boats/viewallofmybookings.php on line 76
+[04-Mar-2021 12:18:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on null in /home/danielst/public_html/boats/viewallofmybookings.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 76
+[04-Mar-2021 12:18:25 America/New_York] PHP Notice:  Undefined variable: dbh in /home/danielst/public_html/boats/viewallofmybookings.php on line 73
+[04-Mar-2021 12:18:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/danielst/public_html/boats/viewallofmybookings.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 73
+[04-Mar-2021 12:18:25 America/New_York] PHP Notice:  Undefined variable: dbh in /home/danielst/public_html/boats/viewallofmybookings.php on line 73
+[04-Mar-2021 12:18:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/danielst/public_html/boats/viewallofmybookings.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 73
+[04-Mar-2021 12:20:11 America/New_York] PHP Notice:  Undefined variable: pdo in /home/danielst/public_html/boats/viewallofmybookings.php on line 16
+[04-Mar-2021 12:20:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/danielst/public_html/boats/viewallofmybookings.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 16
+[04-Mar-2021 12:21:11 America/New_York] PHP Notice:  Undefined variable: pdo in /home/danielst/public_html/boats/viewallofmybookings.php on line 16
+[04-Mar-2021 12:21:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/danielst/public_html/boats/viewallofmybookings.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 16
+[04-Mar-2021 12:21:12 America/New_York] PHP Notice:  Undefined variable: pdo in /home/danielst/public_html/boats/viewallofmybookings.php on line 16
+[04-Mar-2021 12:21:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/danielst/public_html/boats/viewallofmybookings.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 16
+[04-Mar-2021 12:21:30 America/New_York] PHP Notice:  Undefined variable: pdo in /home/danielst/public_html/boats/viewallofmybookings.php on line 16
+[04-Mar-2021 12:21:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/danielst/public_html/boats/viewallofmybookings.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 16
+[04-Mar-2021 12:21:41 America/New_York] PHP Notice:  Undefined variable: pdo in /home/danielst/public_html/boats/viewallofmybookings.php on line 16
+[04-Mar-2021 12:21:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/danielst/public_html/boats/viewallofmybookings.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 16
+[04-Mar-2021 12:23:02 America/New_York] PHP Notice:  Undefined variable: pdo in /home/danielst/public_html/boats/viewallofmybookings.php on line 16
+[04-Mar-2021 12:23:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/danielst/public_html/boats/viewallofmybookings.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 16
+[04-Mar-2021 12:24:18 America/New_York] PHP Notice:  Undefined variable: pdo in /home/danielst/public_html/boats/viewallofmybookings.php on line 15
+[04-Mar-2021 12:24:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/danielst/public_html/boats/viewallofmybookings.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 15
+[04-Mar-2021 12:24:18 America/New_York] PHP Notice:  Undefined variable: pdo in /home/danielst/public_html/boats/viewallofmybookings.php on line 15
+[04-Mar-2021 12:24:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/danielst/public_html/boats/viewallofmybookings.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 15
+[04-Mar-2021 12:24:42 America/New_York] PHP Notice:  Undefined variable: pdo in /home/danielst/public_html/boats/viewallofmybookings.php on line 15
+[04-Mar-2021 12:24:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/danielst/public_html/boats/viewallofmybookings.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 15
+[04-Mar-2021 12:25:06 America/New_York] PHP Notice:  Undefined variable: pdo in /home/danielst/public_html/boats/viewallofmybookings.php on line 15
+[04-Mar-2021 12:25:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/danielst/public_html/boats/viewallofmybookings.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 15
+[04-Mar-2021 12:25:22 America/New_York] PHP Notice:  Undefined variable: pdo in /home/danielst/public_html/boats/viewallofmybookings.php on line 15
+[04-Mar-2021 12:25:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/danielst/public_html/boats/viewallofmybookings.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/danielst/public_html/boats/viewallofmybookings.php on line 15
+[04-Mar-2021 12:25:50 America/New_York] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/danielst/public_html/boats/viewallofmybookings.php on line 50
+[04-Mar-2021 12:26:14 America/New_York] PHP Notice:  Undefined variable: Email in /home/danielst/public_html/boats/viewallofmybookings.php on line 46
+[05-Mar-2021 10:32:17 America/New_York] PHP Notice:  Undefined index: ChosenBoatID in /home/danielst/public_html/boats/newboatbooking.php on line 65
+[05-Mar-2021 10:32:17 America/New_York] PHP Notice:  Undefined index: UserID in /home/danielst/public_html/boats/newboatbooking.php on line 66
+[05-Mar-2021 10:32:17 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
+[05-Mar-2021 10:32:17 America/New_York] PHP Notice:  Undefined variable: product in /home/danielst/public_html/boats/newboatbooking.php on line 125
