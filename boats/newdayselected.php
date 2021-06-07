@@ -27,7 +27,7 @@ session_start();
       }, 3000);
       </script>");
     ?>
-   <?
+<?php
   
 ?>
 
@@ -52,10 +52,10 @@ session_start();
 
 <nav class="navbar navbar-expand-md navbar-custom">
 <a class="navbar-brand" href="#">
-    <img src="../pictures/Sailability.svg" width="30" height="30" class="d-inline-block align-top" alt="Peterborough Sailability">
+    <img src="../pictures/Sailability.svg" width="30" height="30" class="d-inline-block align-top" alt="">
     Peterborough Sailability
   </a>
-  <button class="navbar-toggler ml-auto custom-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" alt="Hamburger Menu Button" aria-label="Hamburger Menu Button">
+  <button class="navbar-toggler ml-auto custom-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
@@ -96,7 +96,7 @@ $UserID = $_POST['UserID'];
 
 </div>
 
-<div class="heading1"><h4> Our Dates</h4></div>
+<div class="heading1"><h4> Our Upcoming Dates</h4></div>
                     <div class="container">
   <div class="row">
 
@@ -105,7 +105,9 @@ $UserID = $_POST['UserID'];
         $stmt = $pdo->prepare("SELECT * FROM SeasonDates");
         $stmt->execute();
         $dates = $stmt->fetch();
+     
 
+        
         $seasonstartdate = $dates['SeasonStartDate'];
         $seasonenddate = $dates['SeasonEndDate'];
 
@@ -113,17 +115,22 @@ $UserID = $_POST['UserID'];
         $date_from = strtotime($date_from);
 
         $date_to = $seasonenddate;
+        $todaysdate = date("Y-m-d");
         $date_to = strtotime($date_to);
+        if ( $todaysdate > $seasonstartdate){ $date_from = strtotime($todaysdate);
+           $todaysdate;}
+        else  {  ;
+    }
 
         for ($i = $date_from; $i <= $date_to; $i += 86400) {
-            $date = date("d-m-Y", $i);
-            $newdate = date("jS F Y", $i);
+          $date = date("d-m-Y", $i);
+          $newdate = date("jS F Y", $i);
 
-            $unixTimestamp = strtotime($date);
-            $unixTimestamp = strtotime($newdate);
+          $unixTimestamp = strtotime($date);
+          $unixTimestamp = strtotime($newdate);
 
-            $dayOfWeek = date("l", $unixTimestamp);
-            $chosendate="";
+          $dayOfWeek = date("l", $unixTimestamp);
+          $chosendate="";
             if ($dayOfWeek == $chosenday) {
 
                 ?>
